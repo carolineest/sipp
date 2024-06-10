@@ -108,7 +108,7 @@ See the [open issues](https://gitlab.cs.ui.ac.id/propensi-2023-2024-genap/kelas-
 <!-- CONTACT -->
 ## Contact
 
-wedens - [wedens10 on LINE](https://line.me/ti/p/wedens10) - wedens.elma@ui.ac.id
+Prororo - prororo.c06@gmail.com
 
 Project Link: [https://gitlab.cs.ui.ac.id/propensi-2023-2024-genap/kelas-c/c06-prororo](https://gitlab.cs.ui.ac.id/propensi-2023-2024-genap/kelas-c/c06-prororo)
 
