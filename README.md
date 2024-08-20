@@ -72,7 +72,7 @@ Make sure your favorite text editor is well updated!
 <!-- 1. Get a free API Key at [https://example.com](https://example.com) -->
 Clone the repo
    ```sh
-   git clone https://gitlab.cs.ui.ac.id/propensi-2023-2024-genap/kelas-c/c06-prororo.git
+   git clone https://github.com/carolineest/c06-prororo.git
    ```
 <!-- 2. Install NPM packages
    ```sh
@@ -110,7 +110,7 @@ See the [open issues](https://gitlab.cs.ui.ac.id/propensi-2023-2024-genap/kelas-
 
 Prororo - prororo.c06@gmail.com
 
-Project Link: [https://gitlab.cs.ui.ac.id/propensi-2023-2024-genap/kelas-c/c06-prororo](https://gitlab.cs.ui.ac.id/propensi-2023-2024-genap/kelas-c/c06-prororo)
+Original Project Link: [https://gitlab.cs.ui.ac.id/propensi-2023-2024-genap/kelas-c/c06-prororo](https://gitlab.cs.ui.ac.id/propensi-2023-2024-genap/kelas-c/c06-prororo)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
